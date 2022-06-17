@@ -9,4 +9,4 @@ Required hardware:
 4. Wire: 17x
 5. LED: 3x
 6. Switch: 3x
-7. 16*2 LCD display
+7. 16x2 LCD display
